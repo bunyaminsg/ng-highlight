@@ -1,0 +1,28 @@
+{
+  "name": "ng-highlight",
+  "version": "1.0.0",
+  "description": "Angular 2+ HighlightJS Directive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bunyaminsg/ng-highlight.git"
+  },
+  "keywords": [
+    "angular",
+    "angular2",
+    "angular4",
+    "ng",
+    "highlightjs",
+    "highlight",
+    "code"
+  ],
+  "author": "Bünyamin Sarıgül",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bunyaminsg/ng-highlight/issues"
+  },
+  "homepage": "https://github.com/bunyaminsg/ng-highlight#readme"
+}
