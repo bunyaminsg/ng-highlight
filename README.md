@@ -8,12 +8,13 @@
 
 ## Usage
 
-Add any theme (css) from [highlight.js](https://highlightjs.org/download/) to your `index.html` file.
+Add `jQuery` and any theme (css) from [highlight.js](https://highlightjs.org/download/) to your `index.html` file.
 
 E.g.
 
 ```
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 ```
 
 Then:
